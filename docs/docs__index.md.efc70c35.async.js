@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkevinjobs_docs=self.webpackChunkkevinjobs_docs||[]).push([[935],{70253:function(d,s,_){_.r(s);var l=_(38265),m=_(37598),i=_(25666),u=_(84973),a=_(21715),p=_(31778),r=_(46026),n=_(47796),v=_(9405),e=_(80216);function o(){var t=(0,n.eL)(),E=t.texts;return(0,e.jsx)(n.dY,{children:(0,e.jsx)(e.Fragment,{})})}s.default=o}}]);
